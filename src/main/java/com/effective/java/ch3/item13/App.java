@@ -1,4 +1,4 @@
-package com.effective.java.ch2.item13;
+package com.effective.java.ch3.item13;
 
 import lombok.Getter;
 import lombok.Setter;
